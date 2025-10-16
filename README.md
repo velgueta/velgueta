@@ -1,5 +1,5 @@
--  Hi, I’m Verónica Gaete-Elgueta
--  I’m interested in studying and understanding earthquakes and volcanic eruptions using Distributed Acoustic Sensing (DAS)
+-  Hi, I’m Verónica. PhD candidate at Univeristy of Washington
+-  I’m interested in studying and understanding both earthquakes and volcanoes. I am developing my reseach using Distributed Acoustic Sensing (DAS) in Mount Rainier,WA, Cook Inlet, AK.
 
 
 <!---
